@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumys56&label=Profile%20views&color=0e75b6&style=flat" alt="soumys56" /> </p>
 
-- 🔭 I’m currently working on [Employee Review System](https://employee-review-aplication.onrender.com)
+- 🔭 I’m currently working on project [Employee Review System](https://employee-review-aplication.onrender.com)
 
 - 🌱 I’m currently learning **Rect Js**
 
-- 🔭 I’m currently working on [Placement Cell](https://placemnet-cell-new.onrender.com)
+- 🔭 I’m currently working on project [Placement Cell](https://placemnet-cell-new.onrender.com)
 
 - 🤝 I’m currently working **Suvidha Foundation**
 
